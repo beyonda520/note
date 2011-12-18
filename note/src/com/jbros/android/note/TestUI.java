@@ -1,4 +1,4 @@
-package com.jbros.rim.note;
+package com.jbros.android.note;
 
 public class TestUI {
 
@@ -7,7 +7,7 @@ public class TestUI {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.console().printf("Hello, %s, welcome to rim dev world", "Jean Huang");
+		System.console().printf("Hello, %s, welcome to android dev world", "Jean Huang");
 	}
 
 }
