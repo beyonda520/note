@@ -9,6 +9,7 @@ public class R {
 		// TODO Auto-generated method stub
 		if(true && ! false)
 			System.out.println("TTTT xsx");
+		System.exit(0);
 	}
 
 }
